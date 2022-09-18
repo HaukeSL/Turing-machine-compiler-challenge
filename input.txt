@@ -1,0 +1,8 @@
+print 0
+go left
+goto step 1 if cell is 1
+print 1
+go right
+goto step 1 if cell is 1
+goto step 4 if cell is 0
+stop
